@@ -12,3 +12,8 @@ this project include:
 3. recomendation
 
 you can see them in src/evaluation
+
+
+you can clone the files form here link (https://drive.google.com/file/d/1OQGVUegFWz9RC0bwqtw3xYaUYqLy6T3A/view?usp=drive_link)
+first you have to download this file 
+after that you have to unzip file then open it pycharm
